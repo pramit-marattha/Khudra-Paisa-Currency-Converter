@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Realtime Foreign exchange rates calculator. It uses currency converter API. A very simple web application to check the currency rates.
+
+---
+## It's Live 🎉 Visit here ==>https://khudra-paisa.netlify.app/
+---
+![khudraPaisa](https://user-images.githubusercontent.com/37651620/91624445-15fb3a00-e9c0-11ea-8371-5e87617484ad.png)
+---
 
 ## Available Scripts
 
